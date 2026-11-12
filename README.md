@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FF7&height=220&section=header&text=Baliji%20Niroop&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automotive%20Engineering%20%C3%97%20AI%2FML&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=720&lines=Automobile+Engineering+student+%40+VNR+VJIET;Building+EV+battery+intelligence;Predicting+collision+risk+with+code;Python+%7C+MATLAB+%7C+Machine+Learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=720&lines=Automobile+Engineering;Building+EV+battery+intelligence;Predicting+collision+risk+with+code;Python+%7C+MATLAB+%7C+Machine+Learning" alt="Typing SVG" /></a>
 
 <br/>
 
